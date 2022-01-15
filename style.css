@@ -1,0 +1,41 @@
+.whole{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pl{
+    margin-top: 50px;
+    
+}
+.plus{
+     background-color: #0b9305;
+     color: #e4fbe0;
+    font-size: 30px;
+    padding: 40px;
+    border: 2px solid black;
+    border-radius: 3px;
+
+}
+.plus:hover{
+    background-color: #b1ff36;
+    color: #868376;
+}
+
+.minus{
+    background-color: #0b9305;
+    color: #e4fbe0;
+   font-size: 30px;
+   padding: 40px;
+   border: 2px solid black;
+   border-radius: 3px;
+
+}
+.minus:hover{
+   background-color: #b1ff36;
+   color: #868376;
+}
+.pl2{
+    padding-top: 30px;
+    
+}
